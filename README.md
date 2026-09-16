@@ -1,4 +1,4 @@
-## 🔢 Handwritten Digit Classification using k-NN & PCA
+## 🔢 Handwritten Digit Classification using KNN & PCA
 
 > **Executive Summary:** A machine learning pipeline designed to recognize and classify handwritten digits ($0$–$9$) from the MNIST benchmark dataset using $k$-Nearest Neighbors ($k$-NN) accelerated with Principal Component Analysis (PCA). This project demonstrates end-to-end data loading, feature transformation, dimensionality reduction, and multi-class classification.
 
